@@ -43,7 +43,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfaceAbstractDemo", "In
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GameMarketingSimulation", "GameMarketingSimulation\GameMarketingSimulation.csproj", "{6AF64384-EFC5-417A-833C-33CF92F26C48}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqProject", "LinqProject\LinqProject.csproj", "{B3B44E8E-551C-4CD3-913B-ABA3156C1602}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinqProject", "LinqProject\LinqProject.csproj", "{B3B44E8E-551C-4CD3-913B-ABA3156C1602}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityFrameworkDemo", "EntityFrameworkDemo\EntityFrameworkDemo.csproj", "{78E937BD-8FC0-4F54-8FB1-27F7F393AD19}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -135,6 +137,10 @@ Global
 		{B3B44E8E-551C-4CD3-913B-ABA3156C1602}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B3B44E8E-551C-4CD3-913B-ABA3156C1602}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B3B44E8E-551C-4CD3-913B-ABA3156C1602}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78E937BD-8FC0-4F54-8FB1-27F7F393AD19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78E937BD-8FC0-4F54-8FB1-27F7F393AD19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78E937BD-8FC0-4F54-8FB1-27F7F393AD19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78E937BD-8FC0-4F54-8FB1-27F7F393AD19}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
