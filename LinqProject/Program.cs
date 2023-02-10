@@ -20,7 +20,6 @@ namespace LinqProject
 
 
 
-            Console.WriteLine("Linq-----------");
 
 
           //  GetProductsLinq(products);
